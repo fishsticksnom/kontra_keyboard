@@ -1,0 +1,5 @@
+if SHIELD_KONTRA
+
+config ZMK_KEYBOARD_NAME
+    default "kontra"
+endif
